@@ -58,7 +58,7 @@ export default function EntityCard({ it }) {
                 href={it.website}
                 target="_blank"
                 rel="noreferrer"
-                className="px-3 py-2 rounded-lg bg-[#6048ff] text-white text-sm hover:opacity-90"
+                className="px-3 py-2 rounded-lg bg-[#6366F1] text-white text-sm hover:bg-[#6048ff] text-white text-sm font-semibold px-4 py-2 shadow"
               >
                 Visit Website
               </a>
